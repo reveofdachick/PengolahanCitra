@@ -1,0 +1,14 @@
+Analisis :
+
+judul paper : Image Classification - Cat and Dog Images
+International Research Journal of Engineering and Technology (IRJET)
+tahun publikasi : Desember 2019
+Author : Tushar Jajodia, Pankaj Garg
+Metode : Deep Learning
+Hasil :
+
+Dari hasil percobaan paper, menggunakan metode deep learning dengan mengklasifikasi dan membedakan beberapa object, 
+disini saya hanya menggunakan 3 object yaitu kucing dan anjing. untuk membedakan lebih spesifiknya ; jenis kucing/anjing
+bisa dilakukan, di data sudah ada 1000 object, terdapat lebih dari 200 jenis kucing dan 150 jenis anjing. tetapi 
+dikarenakan keterbatasan kemampuan dan pemakaian waktu pengerjaan, jadi mohon maaf belum dapat terlaksanakan 
+terima kasih :)
